@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609377345285",
+    "firebase_url": "https://stayerplus-a160b.firebaseio.com",
+    "project_id": "stayerplus-a160b",
+    "storage_bucket": "stayerplus-a160b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609377345285:android:862bcf46cc87a031",
+        "android_client_info": {
+          "package_name": "com.stayerplus.stayerplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609377345285-visof3ej0sdbd2clffuj094al9enrhrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stayerplus.stayerplus",
+            "certificate_hash": "9f78f564843c2b7d3520ec064005487892b93555"
+          }
+        },
+        {
+          "client_id": "609377345285-5iuvg2pqb6cc2utjpveem5ib1ltum2em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdzGdA6FnX0HKqXIafRVsEvCB94fp9tA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609377345285-5iuvg2pqb6cc2utjpveem5ib1ltum2em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
